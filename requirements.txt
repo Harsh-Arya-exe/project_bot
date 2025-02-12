@@ -36,3 +36,7 @@ certifi
 langgraph
 genai
 google
+rich
+markdown-it-py
+pygments
+mdurl
