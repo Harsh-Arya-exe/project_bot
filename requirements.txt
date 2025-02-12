@@ -22,7 +22,7 @@ requests            # HTTP requests
 
 groq
 langchain-groq
-beautifulsoap4
+beautifulsoup4
 
 langchain-groq
 groq
