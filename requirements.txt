@@ -39,3 +39,4 @@ rich
 markdown-it-py
 pygments
 mdurl
+streamlit
