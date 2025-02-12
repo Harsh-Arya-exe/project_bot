@@ -40,3 +40,5 @@ markdown-it-py
 pygments
 mdurl
 streamlit
+google-generativeai
+
