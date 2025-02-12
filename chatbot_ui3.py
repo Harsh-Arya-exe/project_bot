@@ -1,3 +1,4 @@
+!pip install langchain-community
 from typing import TypedDict, List, Union
 from langchain_community.tools import DuckDuckGoSearchResults
 from langchain_community.document_loaders import WebBaseLoader
