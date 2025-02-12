@@ -1,5 +1,5 @@
 # Core LangChain dependencies
-langchain-openai==0.3.5      # OpenAI integrations
+langchain-openai==0.27.0   # OpenAI integrations
 langchain-community  # Community tools and integrations
 langchain-core       # Core LangChain components
 
@@ -34,7 +34,7 @@ duckduckgo-search
 python-dotenv
 certifi
 langgraph
-genai
+genai==2.1.0
 google
 rich
 markdown-it-py
