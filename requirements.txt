@@ -34,3 +34,5 @@ duckduckgo-search
 python-dotenv
 certifi
 langgraph
+genai
+google
