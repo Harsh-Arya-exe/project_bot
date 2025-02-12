@@ -1,5 +1,5 @@
 from typing import TypedDict, List, Union
-from langchain_community.tools import DuckDuckGoSearchResults
+#from langchain_community.tools import DuckDuckGoSearchResults
 from langchain_community.document_loaders import WebBaseLoader
 from langchain_community.vectorstores import FAISS
 from langchain_core.messages import HumanMessage, AIMessage
