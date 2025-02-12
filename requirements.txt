@@ -1,5 +1,5 @@
 # Core LangChain dependencies
-langchain-openai      # OpenAI integrations
+langchain-openai==0.3.5      # OpenAI integrations
 langchain-community  # Community tools and integrations
 langchain-core       # Core LangChain components
 
