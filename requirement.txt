@@ -1,0 +1,36 @@
+# Core LangChain dependencies
+langchain-openai      # OpenAI integrations
+langchain-community  # Community tools and integrations
+langchain-core       # Core LangChain components
+
+# Framework
+langgraph          # For multi-agent orchestration
+
+# Search & RAG
+duckduckgo-search    # Internet search functionality
+faiss-cpu      # Vector similarity search (CPU version)
+
+# Vision support (if using image analysis)
+openai            # Direct OpenAI API access
+
+# Environment management
+python-dotenv       # For loading .env files
+
+# Additional utilities
+tiktoken        # Token counting (required for some LangChain modules)
+requests            # HTTP requests
+
+groq
+langchain-groq
+beautifulsoap4
+
+langchain-groq
+groq
+langchain-community
+beautifulsoup4
+sentence-transformers
+faiss-cpu
+duckduckgo-search
+python-dotenv
+certifi
+langgraph
